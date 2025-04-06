@@ -26,5 +26,9 @@ The File Integrity Checker is especially useful in environments that demand stri
 
 Since the tool is built entirely with Python’s standard libraries (hashlib and os), it requires no external dependencies, making it lightweight, portable, and easy to integrate into existing workflows or automation scripts. Additionally, the modular design allows for future enhancements such as GUI integration, multi-algorithm support, file watching capabilities, and email alert systems.
 
-Overall, this project exemplifies how a simple yet powerful Python script can play a vital role in maintaining file security and operational integrity. It introduces users to core concepts of hashing, file handling, and basic cybersecurity practices, making it an excellent utility for students, professionals, and developers alike.
+Overall, this project exemplifies how a simple yet powerful Python script can play a vital role in maintaining file security and operational integrity. It introduces users to core concepts of hashing, file handling, and basic cybersecurity practices, making it an excellent utility for students, professionals, and developers alike.*
+
+ OUTPUT:
+ ![Image](https://github.com/user-attachments/assets/71e63507-08ee-48d0-a14d-a26eaac4f55e)
+ 
 
